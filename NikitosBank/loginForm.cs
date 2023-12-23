@@ -12,7 +12,7 @@ namespace NikitosBank
         {
             InitializeComponent();
             db.InitializeDatabase();
-            // Всем привет меня зовут никита
+            // Всем привет меня зовут никита 1231
         }
 
         private void button1_Click(object sender, EventArgs e)
